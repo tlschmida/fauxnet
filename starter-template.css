@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+
+.navbar-inverse {
+	background: #00B1DD;
+}
+
+.navbar-inverse .navbar-brand {
+color: #00F7B1;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+color: #ff0;
+}
+
+.starter-template {
+  border-bottom: 1px solid #333;
+  padding: 40px 15px;
+  margin-bottom: 20px;
+  text-align: center;
+
+}
