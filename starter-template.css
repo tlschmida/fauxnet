@@ -21,3 +21,28 @@ color: #ff0;
   text-align: center;
 
 }
+
+.name_list {
+	text-align: center;
+	width: 100px;
+	margin: 0 auto;
+}
+
+.name_list ul {
+	list-style: none;
+	font: normal #555 sans-serif;
+	padding: 0;
+}
+
+.name_list li {
+	display: block;
+	padding: 5px 10px;
+}
+
+.name_list li:hover {
+	background-color: #ff0;
+}
+
+.name_list a {
+	color: red;
+}
